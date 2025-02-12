@@ -1,0 +1,1 @@
+import{l as u,p as s,o as t,f as n}from"./app-8046655d.js";const i={__name:"FileInput",setup(r,{expose:o}){const e=u(null);return s(()=>{e.value.hasAttribute("autofocus")&&e.value.focus()}),o({focus:()=>e.value.focus()}),(a,c)=>(t(),n("input",{type:"file",class:"border-gray-300 focus:border-indigo-500 focus:ring-indigo-500",ref_key:"input",ref:e},null,512))}};export{i as _};
